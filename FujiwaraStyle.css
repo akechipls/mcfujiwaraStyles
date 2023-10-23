@@ -1,0 +1,47 @@
+@media all {
+
+
+    /*крутая картиночка в графипке*/
+    .activity {
+        content: url(https://cdn.discordapp.com/attachments/795635457412562977/1155108296299122739/Untitled-1.png);
+        width: 100%;
+    }/*конец*/
+
+    /*убрать стату*/
+    .lifetime.b-stats_bar {
+        display: none;
+    }/*конец*/
+
+    div.cc-2:nth-child(2)>div:nth-child(2) {
+        display: none;
+    }
+
+    div.cc-2:nth-child(2)>div:nth-child(4) {
+        display: none;
+    }
+
+    .cc-2::after {
+        display: contents;
+    }
+
+    .block.achievements {
+        display: inline list-item;
+    }
+
+
+    .p-profiles .block {
+        overflow: hidden;
+    }
+
+    .p-profiles .block:last-child {
+        display: contents;
+    }
+}
+
+div.block:nth-child(4)>div:nth-child(1) {
+    margin-top: 146px;
+}
+
+.block.achievements::marker {
+    display: none;
+}
