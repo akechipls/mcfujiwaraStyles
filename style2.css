@@ -1,0 +1,136 @@
+/* AUTO=body_background */ body { background: url(https://cdn.discordapp.com/attachments/795635457412562977/1109598695219011665/930152-most-popular-black-rock-shooter-wallpapers-1920x1080-samsung-galaxy.jpg) fixed; }
+
+
+/*don't touch, it's working
+removes junk from title-stats*/
+.b-stats_bar .bar {
+  display:none;
+}
+[data-type="planned"] {
+  display:none !important;
+}
+.compatibility {
+  display:none;
+}
+
+
+/*fixes*/
+.p-profiles .c-left {
+  display:none;
+}
+.p-profiles .c-right .block {
+  display:none;
+}
+.p-profiles-show.x1200 .profile-content .c-right .cc-2a > .c-column {
+  float:none;
+  width:100%;
+}
+.anime > div:nth-child(4) > div:nth-child(2) {
+	display:none;
+}
+div.b-stats_bar:nth-child(2) > div:nth-child(4) > div:nth-child(2) {
+	display:none;
+}
+.b-stats_bar .stat_names .stat_name {
+  display:block;
+}
+.c-column .m0 {
+  margin-bottom: auto;
+}
+
+
+
+/*history mini*/
+.p-profiles .profile-head .c-history .entry {
+  border-top: 0;
+}
+.p-profiles .profile-head .c-history .entry .misc.date {
+  display:none;
+}
+.p-profiles .profile-head .c-history .entry img {
+  max-height:40px;
+}
+
+
+
+/*modify this if you 
+want any changes*/
+
+
+/*name brief*/
+.p-profiles .profile-head .c-brief header {
+  left: 82px;
+position: relative;
+top: 20px;
+}
+/*avatar and buttons*/
+.p-profiles .profile-head .c-brief .avatar {
+  left: 90px;
+position: relative;
+}
+/*anime and manga lists*/
+.c-lists-info {
+  width: 40%;
+  float:right;
+  right: 8px;
+}
+/*lists + collections reviews*/
+.c-info {
+	position: relative;
+	margin-top: -43px;
+    width: 29%;
+  left: 82px;
+}
+/*clubs+friends*/
+.p-profiles-show .profile-content .c-right .cc-2a {
+	width:45%;
+  left: 615px;
+  margin-top: -229px;
+}
+/*collections reviews etc*/
+.p-profiles .profile-head .c-info .c-additionals {
+  margin-top: 70px;
+  position:relative;
+}
+/*history*/
+.c-history {
+  right:40px;
+  position:relative;
+}
+/*margin-top*/
+.profile-head {
+margin-top: 20%;
+}
+/*margin-top on about block*/
+.profile-content .about {
+margin-top:300px;
+}
+/*border and color on lists*/
+.profile-head {
+    border-style: solid;
+  padding-top: 20px;
+  background-color: blanchedalmond;
+}
+/*poster border in history*/
+.p-profiles .profile-head .c-history .entry img {
+  border-style: solid;
+border-width: 1.5px;
+border-color: #6e2a6e;
+}
+/*animemanga lists background*/
+.c-lists-info {
+background-color: #bcd3f2;
+padding-left: 10px;
+padding-top: 10px;
+margin-right: 10px;
+}
+
+/*overall
+style changes*/
+
+
+/*subheadline color*/
+.headline, .midheadline, .subheadline {
+  background: #bcd3f2;
+border-left: 5px solid #94abc1;
+}
