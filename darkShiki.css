@@ -1,0 +1,58 @@
+/* AUTO=body_background */ body { background: url(https://cdn.discordapp.com/attachments/1039639466257690727/1120276932869767178/1268183.jpg) repeat; }
+
+.c-brief .avatar img {
+background: url(https://shikimori.me/system/users/x160/1062507.png?1687196545) no-repeat;
+  background-size: auto;
+padding-left: 165px;
+background-size: 100%;
+}
+
+.p-user_rates-index .l-menu .avatar img {
+background: url(https://shikimori.me/system/users/x160/1062507.png?1687196545) no-repeat;
+    background-size: auto;
+  width:160px;
+  height:160px;
+    -moz-box-sizing: border-box;
+    display: block;
+    box-sizing: border-box;
+  padding-left:160px;
+  
+}
+
+@media screen and (min-width: 768px) .c-brief .avatar img {
+background: url(https://shikimori.me/system/user_images/original/1062507/2264025.jpg) no-repeat;
+  background-size: auto;
+padding-left: 165px;
+background-size: 100%;
+}
+
+.l-page {
+background:#4a4a4a;
+}
+
+body, header.head .notice {
+color: white;
+}
+
+.p-profiles .profile-head .c-brief .avatar .profile-actions > a, .p-profiles-show .profile-content .activity .title, .b-stats_bar .title, .p-profiles-show .lifetime .times .time.checked, .bar.vertical .line .x_label, .b-stats_bar .stat_names .stat_name a  {
+  color:white;
+}
+
+html[data-color-mode="light"] {
+  --headline-color: white;
+  --link-color: #6abef9;
+}
+
+.headline, .midheadline, .subheadline {
+  background: #2e2f31;
+}
+
+
+.p-profiles-show.x1200 .profile-content .c-right > .block:last-child, .p-profiles-show.x1200 .profile-content .c-right > .subcontent:last-child {
+  margin-bottom: 0;
+background-color: slategray;
+padding-bottom: 10px;
+padding-top: 10px;
+padding-right: 5px;
+padding-left: 5px;
+}
