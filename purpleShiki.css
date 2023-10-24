@@ -1,0 +1,80 @@
+/* AUTO=body_background */ body { background: url(/assets/background/twinkle_twinkle.png) repeat; }
+
+/* purple */
+.l-top_menu-v2{
+    background: #823fc1;
+}
+.l-top_menu-v2 .menu-dropdown > span {
+    background: #994fdf;
+}
+/* field */
+.field > input:nth-child(1) {
+    background-color: #994fdf;
+}
+
+/* fix for magnifier */
+.l-top_menu-v2 .global-search input {
+    line-height: 43px;
+}
+.l-top_menu-v2.is-search-focus .global-search .search-marker {
+    color: white;
+}
+.field {
+    color: white;
+}
+
+
+
+/* l-page */
+.l-page {
+    background: #3d2951;
+
+}
+html[data-color-mode="light"] {
+    --link-color: #d3a4ff;
+    --link-hover-color: #ecd8ff;
+    --headline-color: #fff;
+    --headline-background-color: #23182f;
+    --headline-border-color: #994fdf;
+}
+
+/* sepparate whiters */
+.block {
+    color:white;
+}
+.b-catalog_entry .cover .misc span {
+    color: #fff;
+}
+.b-news_wall-topic .title {
+    color:white;
+}
+header.head .notice {
+    color: white;
+}
+.b-stats_bar .stat_names .stat_name a {
+    color:white;
+}
+.p-profiles .profile-head .c-info .c-additionals b {
+    color:white;
+}
+
+
+/* buttons */
+input, select, textarea {
+    border: 1px white solid;
+    background-color: #3d2951;
+    padding: 3px;
+}
+
+/*headings*/
+.orange {
+    color: #fff;
+    background: #362544;
+    border-left: 5px solid #4e3b5e;
+}
+
+/*shadows, for some reason it won't work without all 3
+values*/
+.p-dashboards-show .v2 .headline {
+    box-shadow: 0px 3px 10px #17131a;
+}
