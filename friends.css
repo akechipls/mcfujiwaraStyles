@@ -1,0 +1,8 @@
+/*аватарка*/ .profile-head .avatar img {
+content: url(https://desu.shikimori.me/system/users/x160/1062507.png?1693343425); }
+
+.b-comment[data-user_id="1062507"] > .inner header img {
+content: url(https://desu.shikimori.me/system/users/x160/1062507.png?1693343425); } 
+  
+.b-comment[data-user_id="1349476"] > .inner header img {
+  content: url(https://shikimori.me/system/users/x160/1349476.png?1695639317); }/*конец*/
