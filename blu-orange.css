@@ -1,0 +1,116 @@
+
+      /*ORANGE PATS*/
+      /* top menu color */
+      .l-top_menu-v2 {
+          background: #e69d1d;
+      }
+
+      .l-top_menu-v2 .menu-dropdown>span {
+          background: #e69d1d;
+          color: #ffb430;
+      }
+
+      /* field */
+      .field>input:nth-child(1) {
+          background-color: #e69d1d;
+      }
+
+      /*topbar nickanme*/
+      .l-top_menu-v2 .menu-dropdown>span a {
+          color: #ffb430;
+      }
+      /*profile*/
+      .b-stats_bar .title {
+          color: #ffb430;
+      }
+
+      .profile-actions .mail {
+          color: #ffb430;
+      }
+
+      .profile-actions .settings {
+          color: #ffb430;
+      }
+
+      .profile-actions .ban {
+          color: #ffb430;
+      }
+      /* l-page */
+      .l-page {
+          background: #213752;
+          color: #ffb430
+      }
+
+      .block {
+          color: #ffb430
+      }
+
+      html[data-color-mode="light"] {
+          --link-color: #951b07;
+          --link-color: #fff;
+          --link-hover-color: #fff;
+          --headline-background-color: #ffb430;
+          --headline-border-color: #ffb430;
+      }
+
+      header.head h1,
+      header.head h2 {
+          color: #ffb430
+      }
+
+
+      .l-footer .copyright {
+          color: #ffb430;
+      }
+
+
+
+
+
+      /*WHITE PARTS*/
+      .b-catalog_entry .cover .misc span {
+          color: white;
+      }
+
+      .b-news_wall-topic .title {
+          color: white;
+      }
+
+      header.head .notice {
+          color: white;
+      }
+
+      .b-stats_bar .stat_names .stat_name a {
+          color: white;
+      }
+
+      .p-profiles .profile-head .c-info .c-additionals b {
+          color: white;
+      }
+
+      .l-top_menu-v2.is-search-focus .global-search .search-marker {
+          color: white;
+      }
+
+      .field {
+          color: white;
+      }
+
+      /* buttons */
+      input,
+      select,
+      textarea {
+          border: 1px white solid;
+          background-color: #fff8dc;
+          padding: 3px;
+      }
+
+
+
+
+
+      /*BLACK PARTS*/
+      /*input select*/
+      .b-input select {
+          color: black;
+      }
