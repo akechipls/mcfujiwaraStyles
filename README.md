@@ -1,4 +1,4 @@
-# style1
+ # style1
 ![image](https://github.com/akechipls/mcfujiwaraStyles/assets/81432836/637e8315-0826-4e59-9d8d-dabdb921cfac)
 # purpleShiki
 ![image](https://github.com/akechipls/mcfujiwaraStyles/assets/81432836/fdecbced-2160-49ea-af4e-5cf5c8834cc5)
@@ -12,3 +12,5 @@
 ![image](https://github.com/akechipls/mcfujiwaraStyles/assets/81432836/52542638-09bb-4e2d-9494-9074b02c92b0)
 # green mess
 ![image](https://github.com/akechipls/mcfujiwaraStyles/assets/81432836/361b7ccd-31ba-4c9a-9c03-4a10e06e50b1)
+# updated style3 
+![image](https://github.com/akechipls/mcfujiwaraStyles/assets/81432836/0da4d007-ee89-4ad1-a757-5cfd92800d80)
