@@ -1,0 +1,60 @@
+
+
+/*main*/
+body {
+    background-color: #3fa663;
+    }
+    
+    .l-page {
+    background-color: #113e20;
+    }
+    
+    
+    html[data-color-mode="light"] {
+    --link-color: #45bf70;
+    --link-hover-color: #64e491;
+      --headline-color: #fff;
+      --headline-background-color: #25594a;
+      --headline-border-color: #2e838c;
+    }
+    /*ВРЕМЕННО*/
+    select {
+    color:black;}
+    
+    
+    
+    
+    /*news*/
+    .b-catalog_entry .cover .misc span {
+    color: #fff;
+    }
+    .b-news_wall-topic .title {
+        color: #45bf70;;
+        }
+        
+        .b-tag {
+        color: #93ffb9
+        }
+    
+    
+    
+    /* top menu color */
+    .l-top_menu-v2 {
+              background: #25594a;
+          }
+    .l-top_menu-v2 .menu-dropdown>span {
+              background: #2e838c;
+              color: #fff;
+          }
+    .l-top_menu-v2 .global-search input {
+      background: #2e838c;
+    }
+    
+    .l-top_menu-v2 .global-search {
+    color:white;}
+    
+    
+    /*settings*/
+    #profiles_edit .block {
+    color:white;}
+    
