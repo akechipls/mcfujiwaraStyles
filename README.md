@@ -14,3 +14,5 @@
 ![image](https://github.com/akechipls/mcfujiwaraStyles/assets/81432836/361b7ccd-31ba-4c9a-9c03-4a10e06e50b1)
 # updated style3 
 ![image](https://github.com/akechipls/mcfujiwaraStyles/assets/81432836/b64c3453-70ce-4f70-a717-afb2c3597d56)
+# pink-dark
+![image](https://github.com/akechipls/mcfujiwaraStyles/assets/81432836/5e633e5a-2c55-40b7-82a9-e2cb982a1595)
