@@ -13,4 +13,4 @@
 # green mess
 ![image](https://github.com/akechipls/mcfujiwaraStyles/assets/81432836/361b7ccd-31ba-4c9a-9c03-4a10e06e50b1)
 # updated style3 
-![image](https://github.com/akechipls/mcfujiwaraStyles/assets/81432836/0da4d007-ee89-4ad1-a757-5cfd92800d80)
+![image](https://github.com/akechipls/mcfujiwaraStyles/assets/81432836/b64c3453-70ce-4f70-a717-afb2c3597d56)
