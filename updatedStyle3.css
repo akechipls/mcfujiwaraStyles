@@ -1,72 +1,81 @@
-/*style starts here*/
-/*logo*/
-.glyph {
-  display: none;
-}
 
-.l-top_menu-v2 .logo-container .logo {
-  background-image: url(https://cdn.discordapp.com/attachments/795635457412562977/1170116608300175470/shikiSemitransparentInverted.png);
-  width: 177px;
-  height: 100%;
-  bottom: 3px;
-  position: relative;
-  left: 10px;
-}
+/*style starts here*/
+  /*logo*/
+.glyph {
+    display:none;
+  }
+  
+  .l-top_menu-v2 .logo-container .logo {
+        background-image: url(https://cdn.discordapp.com/attachments/795635457412562977/1170116608300175470/shikiSemitransparentInverted.png);
+    width: 177px;
+    height: 100%;
+        bottom: 3px;
+    position: relative;
+        left: 10px;
+  }
 
 /*topbar*/
-.l-top_menu-v2,
-.l-top_menu-v2 .menu-dropdown>span {
-  height: 60px;
+.l-top_menu-v2, .l-top_menu-v2 .menu-dropdown>span {
+  height:60px;
   background: #e4efff;
-  color: black;
-}
+  color:#0f518a;
+  }
 
 /*black color for nickanme*/
 .l-top_menu-v2 .menu-dropdown>span a {
-  color: black;
+color:#0f518a;
 }
 
 /*main page*/
 .x1200 .l-page {
   background-color: #eff8ff;
-  ;
 }
-
-
+  
+  
 /*black color for history*/
 .p-profiles .profile-head .c-history .entry .misc {
-  color: #000 !important;
+color: #0f518a !important;
 }
 
 .p-profiles .profile-head .c-history .entry .misc.date {
-  color: #484848 !important;
+color: #484848 !important;
 }
 
 /*spoilers*/
-.b-spoiler_block>span {
+.b-spoiler_block > span {
   background-color: #a0d0ff;
-  color: #000;
+  color: #0f518a;
 }
 
 /*html*/
 html[data-color-mode="light"] {
-  --headline-background-color: #fff;
-  --headline-color: #4a8bc4;
-  --link-color: #2e81bb;
+	--headline-background-color: #fff;
+    --headline-color: #0096ff;
+    --link-color: #0096ff;
 }
 
 body {
-  color: #0f518a;
+color: #0f518a;
 }
 
-/*nickname color*/
-.head>h1:nth-child(1) {
+  /*nickname color*/
+  .head > h1:nth-child(1) {
   color: #0f518a;
-}
-
+  }
+  
 }
 
 /*avatar shadow*/
-.b-comment>.inner header img {
-  box-shadow: 0px 0px 10px #0000004d;
+.b-comment > .inner header img {
+box-shadow: 0px 0px 10px #0000004d;
+}
+
+
+/*leftovers*/
+
+.p-profiles .profile-head .c-info .c-additionals b {
+color: #0f518a;
+}
+.b-stats_bar .stat_names .stat_name a {
+  color: #0f518a;
 }
