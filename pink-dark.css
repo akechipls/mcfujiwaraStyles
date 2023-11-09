@@ -1,0 +1,83 @@
+
+
+/*style starts here*/
+  /*logo*/
+  .glyph {
+    display:none;
+  }
+  
+  .l-top_menu-v2 .logo-container .logo {
+        background-image: url(https://cdn.discordapp.com/attachments/795635457412562977/1170116608300175470/shikiSemitransparentInverted.png);
+    width: 177px;
+    height: 100%;
+        bottom: 3px;
+    position: relative;
+        left: 10px;
+  }
+
+/*topbar*/
+.l-top_menu-v2, .l-top_menu-v2 .menu-dropdown>span {
+  height:60px;
+  background: #f5b1ff;
+  color: black;
+  }
+
+/*black color for nickanme*/
+.l-top_menu-v2 .menu-dropdown>span a {
+color:black;
+}
+
+/*main page*/
+.x1200 .l-page {
+  background-color: #1e1e1e;
+}
+  
+  
+/*black color for history*/
+.p-profiles .profile-head .c-history .entry .misc {
+color: #ef84ff !important;
+}
+
+.p-profiles .profile-head .c-history .entry .misc.date {
+color: #484848 !important;
+}
+
+/*spoilers*/
+.b-spoiler_block > span {
+  background-color: #ef84ff;
+  color: black;
+}
+
+/*html*/
+html[data-color-mode="light"] {
+	--headline-background-color: black;
+    --headline-color: #ef84ff;
+    --link-color: #f4a9ff;
+}
+
+body {
+color: #ef84ff;
+background: black;
+}
+
+  /*nickname color*/
+  .head > h1:nth-child(1) {
+  color: #ef84ff;
+  }
+  
+}
+
+/*avatar shadow*/
+.b-comment > .inner header img {
+box-shadow: 0px 0px 10px #0000004d;
+}
+
+
+/*leftovers*/
+
+.p-profiles .profile-head .c-info .c-additionals b {
+color: #ef84ff;
+}
+.b-stats_bar .stat_names .stat_name a {
+  color: #ef84ff;
+}
