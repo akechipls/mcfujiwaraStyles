@@ -1,0 +1,34 @@
+
+/*newstyle*/
+body {
+  background:url('https://media.discordapp.net/attachments/795635457412562977/1185257470260691074/sexsexsexn_5-topaz-enhance.png?width=1920&height=1080') fixed;
+}
+
+.l-page {
+  background-color: rgba(255,255,255,0.7);
+}
+
+.l-top_menu-v2 {
+    position: fixed;
+    width: 100%;
+    background: #975c8c;
+}
+
+.l-top_menu-v2 .menu-dropdown > span {
+    background: #c469b3;
+}
+
+.x1200 .l-page {
+      padding-top: 50px;
+}
+
+.p-profiles-show .profile-content .c-right .cc-2a {
+    background: rgb(209 121 192);
+    padding: 7px;
+}
+
+.p-profiles-show.x1200 .profile-content .c-right>.block:last-child {
+    background: rgb(209 121 192);
+    padding: 7px;
+    margin-top: -15px;
+}
