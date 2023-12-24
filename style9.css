@@ -1,5 +1,3 @@
-
-/*newstyle*/
 body {
   background:url('https://media.discordapp.net/attachments/795635457412562977/1185257470260691074/sexsexsexn_5-topaz-enhance.png?width=1920&height=1080') fixed;
 }
@@ -9,7 +7,8 @@ body {
 }
 
 .l-top_menu-v2 {
-    position: fixed;
+    position: sticky;
+    top: 0;
     width: 100%;
     background: #975c8c;
 }
@@ -18,9 +17,9 @@ body {
     background: #c469b3;
 }
 
-.x1200 .l-page {
+/*.x1200 .l-page {
       padding-top: 50px;
-}
+}*/
 
 .p-profiles-show .profile-content .c-right .cc-2a {
     background: rgb(209 121 192);
