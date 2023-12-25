@@ -1,3 +1,4 @@
+/*body*/
 body {
   background:url('https://media.discordapp.net/attachments/795635457412562977/1185257470260691074/sexsexsexn_5-topaz-enhance.png?width=1920&height=1080') fixed;
 }
@@ -6,21 +7,32 @@ body {
   background-color: rgba(255,255,255,0.7);
 }
 
+
+
+
+/*dropdown menu*/
 .l-top_menu-v2 {
     position: sticky;
     top: 0;
-    width: 100%;
-    background: #975c8c;
+}
+
+.l-top_menu-v2 .submenu, .l-top_menu-v2 .menu-dropdown > span, .l-top_menu-v2 {
+background: #975c8c;
+border-color:#975c8c;
+}
+
+.l-top_menu-v2 .menu-icon.active, .l-top_menu-v2 .menu-icon:focus, .l-top_menu-v2 .menu-icon:hover, .l-top_menu-v2 .menu-dropdown.active>span, .l-top_menu-v2 .menu-dropdown>span:focus, .l-top_menu-v2 .menu-dropdown>span a:hover {
+background:#7f4774;
 }
 
 .l-top_menu-v2 .menu-dropdown > span {
     background: #c469b3;
 }
 
-/*.x1200 .l-page {
-      padding-top: 50px;
-}*/
 
+
+
+/*profile stuff*/
 .p-profiles-show .profile-content .c-right .cc-2a {
     background: rgb(209 121 192);
     padding: 7px;
