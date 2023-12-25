@@ -3,8 +3,6 @@
 # style2
 ![image](https://github.com/akechipls/mcfujiwaraStyles/assets/81432836/03b9039f-a9ba-4944-a46e-341f0e42fb3e)
 # style3
-![image](https://github.com/akechipls/mcfujiwaraStyles/assets/81432836/b8cd41ae-7729-4924-b126-f32f64ef7ee4)
-# updated style3 
 ![image](https://github.com/akechipls/mcfujiwaraStyles/assets/81432836/b64c3453-70ce-4f70-a717-afb2c3597d56)
 # style9
 ![image](https://github.com/akechipls/mcfujiwaraStyles/assets/81432836/89ec75e5-b5dc-45f5-9826-e0505990eb36)
