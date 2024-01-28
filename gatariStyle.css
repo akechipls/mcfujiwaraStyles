@@ -1,0 +1,121 @@
+/* AUTO=body_background */ body { background: url(https://i.imgur.com/SsHUqGV.png) no-repeat;
+background-color: #f2f2f2}
+
+
+/*style starts here*/
+  /*logo*/
+.glyph {
+    display:none;
+  }
+  
+  .l-top_menu-v2 .logo-container .logo {
+        background-image: url(https://cdn.discordapp.com/attachments/795635457412562977/1170116608300175470/shikiSemitransparentInverted.png);
+    width: 177px;
+    height: 100%;
+        bottom: 3px;
+    position: relative;
+        left: 10px;
+  }
+
+/*topbar*/
+.l-top_menu-v2, .l-top_menu-v2 .menu-dropdown>span, .l-top_menu-v2 .menu-dropdown.active > span, .menu-dropdown.profile.active .submenu-triangle {
+  height:60px;
+  background: #f2e5ff;
+  color:#0f518a;
+  }
+
+
+.l-top_menu-v2 .submenu, .l-top_menu-v2 .submenu > a  {
+	background: #f2e5ff;
+    color:black;
+}
+
+.l-top_menu-v2 .menu-icon:hover {
+  	background: #f2e5ff;
+}
+
+/*black color for nickanme*/
+.l-top_menu-v2 .menu-dropdown>span a {
+color:#0f518a;
+}
+
+/*main page*/
+.x1200 .l-page {
+  background-color: #fff;
+}
+  
+  
+/*black color for history*/
+.p-profiles .profile-head .c-history .entry .misc {
+color: #0f518a !important;
+}
+
+.p-profiles .profile-head .c-history .entry .misc.date {
+color: #484848 !important;
+}
+
+/*spoilers*/
+.b-spoiler_block > span {
+  background-color: #a0d0ff;
+  color: #0f518a;
+}
+
+/*html*/
+html[data-color-mode="light"] {
+	--headline-background-color: #fff;
+    --headline-color: #a45dff;
+    --link-color: #a45dff;
+}
+
+body {
+color: #0f518a;
+}
+
+  /*nickname color*/
+  .head > h1:nth-child(1) {
+  color: #0f518a;
+  }
+  
+}
+
+/*avatar shadow*/
+.b-comment > .inner header img {
+box-shadow: 0px 0px 10px #0000004d;
+}
+
+
+/*leftovers*/
+
+.p-profiles .profile-head .c-info .c-additionals b {
+color: #0f518a;
+}
+.b-stats_bar .stat_names .stat_name a {
+  color: #0f518a;
+}
+
+/*bar*/
+.bar.simple .bar.s2, .bar.simple .bar.s1, .bar.simple .bar.s3, .bar.simple .bar.s0{
+    background: #a45dff;
+}
+
+/*three colors*/
+
+.c-history .subheadline {
+background-color:#ffe900;
+}
+
+div.m0:nth-child(1) > div:nth-child(1), div.m0:nth-child(2) > div:nth-child(1) {
+	background-color:#dc0004;
+}
+
+.c-right > div:nth-child(2) > div:nth-child(1) {
+	background-color: #1d85b8;
+}
+
+.c-right > div:nth-child(2) > div:nth-child(1) a, div.m0:nth-child(1) > div:nth-child(1) a, div.m0:nth-child(2) > div:nth-child(1) a {
+  color:white;
+}
+
+
+.m13 > a:nth-child(1) {
+color:#353131;}
