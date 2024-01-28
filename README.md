@@ -1,3 +1,7 @@
+# gataristyle
+![image](https://github.com/akechipls/mcfujiwaraStyles/assets/81432836/031de207-9d5f-4175-97bd-53be87bd6820)
+
+ 
  # style1
 ![image](https://github.com/akechipls/mcfujiwaraStyles/assets/81432836/637e8315-0826-4e59-9d8d-dabdb921cfac)
 # style2
